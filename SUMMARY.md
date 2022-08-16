@@ -15,7 +15,7 @@
 * [《大教堂与集市》](The_Cathedral_and_the_Bazaar.md)
 * [《集体行动的逻辑》](The_Logic_of_Collective_Action.md)
 * [《重塑发现：网络化科学的新时代》](Reinventing_Discovery_The_New_Era_of_Networked_Science.md)
-* [《开源的成功之路》]()
+* [《开源的成功之路》](the_success_of_open_source.md)
 * [《Linux红帽旋风》]()
 * [《独自打保龄：美国社区的衰落与复兴品牌和团队》](Bowling_Along.md)
 * [《UNIX编程艺术》]()
