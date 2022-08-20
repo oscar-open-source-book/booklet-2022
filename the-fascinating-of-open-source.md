@@ -27,4 +27,4 @@
 
 ## 推荐人
 
-[图书作者适兕](https://opensourceway.community/all_about_kuosi)，「开源之道」主创。
+[适兕](https://opensourceway.community/all_about_kuosi)，作者，「开源之道」主创。「OSCAR·开源之书·共读」发起者和记录者。

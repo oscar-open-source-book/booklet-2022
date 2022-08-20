@@ -1,12 +1,13 @@
 # 「OSCAR·开源之书·共读书单」
 
+* [编写手册参与人员](co-author.md)
+
 ## 关于「OSCAR·开源之书·共读」小组
 
 * [「OSCAR·开源之书·共读」小组](README.md)
 * [亲力亲为参与者](contributor.md)
 
 ## 「OSCAR·开源之书·共读书单」
-
 
 * [《开放式组织：面向未来的组织管理新范式》](The_Open_Organization.md)
 * [《新造王者：开发者是如何征服世界的》](The_New_Kingmakers_How_Developers_Conquered_the_World.md)
