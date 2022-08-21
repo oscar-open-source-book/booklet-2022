@@ -24,7 +24,7 @@
 * [《开源法则》]()
 * [《硅谷生态圈：创新的雨林法则》]()
 * [《只是为了好玩：Linus Torvalds自传》](Just_For_Fun.md)
-* [《代码2.0：网络空间中的法律》]()
+* [《代码2.0：网络空间中的法律》](code-version-2.md)
 * [《若为自由故：Richard Stallman自传》](Free_as_in_Freedom_Richard_Stallman_s_Crusade_for_Free_Software)
 * [《工匠哲学：分心成瘾时代下的个人修炼》]()
 * [《群体的智慧：如何做出最聪明的决策》](The_Wisdom_of_Crowds.md)
