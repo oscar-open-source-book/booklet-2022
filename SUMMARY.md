@@ -46,7 +46,7 @@
 * [《知识产权法教程（第五版）》]()
 * [《增长的文化：现代经济的起源》](A_Culture_of_Growth_The_Origins_of_the_Modern_Economy.md)
 * [《置身事内：中国政府与经济发展》]()
-* [《开源许可：软件自由和知识产权法》]()
+* [《开源许可：软件自由和知识财产法》](open-source-licensing.md)
 * [《Linux/Unix设计思想》](Linux_and_the_Unix_Philosophy.md)
 * [《数字乌托邦：从反主流文化到赛博文》](From_Counterculture_to_Cyberculture.md)
 * [《创新者：一群技术狂人和鬼才程序员如何改变世界》](The_Innovators_How_a_Group_of_Hackers_Geniuses_and_Geeks_Created_the_Digital_Revolution.md)
