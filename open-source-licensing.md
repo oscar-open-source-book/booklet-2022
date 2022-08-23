@@ -6,7 +6,7 @@
 
 ## 封面
 
-![](./face-image/open-source-licensing.jpg.jpg)
+![](./face-image/open-source-licensing.jpg)
 
 
 ## 在线阅读
