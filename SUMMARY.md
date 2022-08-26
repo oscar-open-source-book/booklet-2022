@@ -13,9 +13,8 @@
 
 * [《生产开放源代码软件》](producing_foss.md)
 * [《开源文集：开源革命之声》](open-source-revolution.md)
-* [《开放与共享：开源创新的经济学思考》]()
-* [《开源法则》]()
-* [《拥抱开源》]()
+* [《开源法则》](kaiyuan-faze.md)
+* [《拥抱开源》](open-source-ate-software.md)
 * [《自由和开源软件洞察论文集》]()
 * [《创新者：一群技术狂人和鬼才程序员如何改变世界》](The_Innovators_How_a_Group_of_Hackers_Geniuses_and_Geeks_Created_the_Digital_Revolution.md)
 * [《恶魔、角马与企鹅：自由和开放软件如何改变世界》]()
@@ -51,9 +50,9 @@
 
 * [《开放式组织：面向未来的组织管理新范式》](The_Open_Organization.md)
 * [《自由企业：释放员工，收获卓越》]()
-* [《公共事物的治理之道》](Governing_the_commons_the_evolution_of_institutions_for_collective_action.md)
 * [《软件悖论：商业软件市场的崛起与衰落》]()
 * [《全民自由：Linux和自由软件运动如何抵抗科技巨头》]()
+* [《开放与共享：开源创新的经济学思考》]()
 
 ### 工程类
 
@@ -78,7 +77,7 @@
 * [《线车宣言：传统商业的终结》]()
 * [《大众创新：自由创新如何推动商业未来》]()
 * [《企鹅与利维坦：合作如何战胜私利》]()
-* [《公共事物的治理之道》]()
+* [《公共事物的治理之道》](Governing_the_commons_the_evolution_of_institutions_for_collective_action.md)
 * [《网络的财富：社会生产如何改变市场和自由》]()
 
 ### 社会类
