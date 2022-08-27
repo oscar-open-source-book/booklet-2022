@@ -15,14 +15,14 @@
 * [《开源文集：开源革命之声》](open-source-revolution.md)
 * [《开源法则》](kaiyuan-faze.md)
 * [《拥抱开源》](open-source-ate-software.md)
-* [《自由和开源软件洞察论文集》]()
+* [《自由和开源软件洞察论文集》](perspectives-on-foss.md)
 * [《创新者：一群技术狂人和鬼才程序员如何改变世界》](The_Innovators_How_a_Group_of_Hackers_Geniuses_and_Geeks_Created_the_Digital_Revolution.md)
-* [《恶魔、角马与企鹅：自由和开放软件如何改变世界》]()
+* [《恶魔、角马与企鹅：自由和开放软件如何改变世界》](demo-gnu-penguin.md)
 * [《开源之迷》](the-fascinating-of-open-source.md)
 
 ### 法律类
 
-* [《商业开源》]()
+* [《商业开源》](open-source-for-business.md)
 * [《代码2.0：网络空间中的法律》](code-version-2.md)
 * [《思想的未来：网络时代公共知识领域的警世》]()
 * [《开源许可：软件自由和知识财产法》](open-source-licensing.md)
@@ -31,6 +31,7 @@
 * [《知识财产和开源：保护代码/法典的实践指导》]()
 * [《Linux和开源的商业与经济》]()
 * [《另类开源：理解风险与把握机会》]()
+* [无需法律的秩序](order-without-law.md)
 
 ### 文化类
 
@@ -87,9 +88,9 @@
 * [《心智社会》](The_Society_of_Mind.md)
 * [《合作的进化》](The_evolution_of_cooperation.md)
 * [《置身事内：中国政府与经济发展》]()
-* [《匠人》]()
-* [《在所有人看得见的地方工作：开源软件的开发与维护》]()
-* [《共同体的艺术：打造参与的新纪元》]()
+* [《匠人》](the-craftman.md)
+* [《在所有人看得见的地方工作：开源软件的开发与维护》](working-in-public.md)
+* [《共同体的艺术：打造参与的新纪元》](the-art-of-community.md)
 
 
 
