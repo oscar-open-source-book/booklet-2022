@@ -53,7 +53,7 @@
 * [《自由企业：释放员工，收获卓越》]()
 * [《软件悖论：商业软件市场的崛起与衰落》]()
 * [《全民自由：Linux和自由软件运动如何抵抗科技巨头》]()
-* [《开放与共享：开源创新的经济学思考》]()
+* [《开放与共享：开源创新的经济学思考》](open-and-share.md)
 
 ### 工程类
 
@@ -61,9 +61,10 @@
 * [《新造王者：开发者是如何征服世界的》](The_New_Kingmakers_How_Developers_Conquered_the_World.md)
 * [《大教堂与集市》](The_Cathedral_and_the_Bazaar.md)
 * [《重塑发现：网络化科学的新时代》](Reinventing_Discovery_The_New_Era_of_Networked_Science.md)
-* [《UNIX编程艺术》]()
+* [《UNIX编程艺术》](the-art-of-unix.md)
 * [《上游思维：在问题发生之前解决问题》](Upstream_The_Quest_to_Solve_Problems_Before_They_Happen.md)
 * [《Linux/Unix设计思想》](Linux_and_the_Unix_Philosophy.md)
+* [梦断代码]()
 
 
 ### 经济类
@@ -91,6 +92,7 @@
 * [《匠人》](the-craftman.md)
 * [《在所有人看得见的地方工作：开源软件的开发与维护》](working-in-public.md)
 * [《共同体的艺术：打造参与的新纪元》](the-art-of-community.md)
+* [《以人为本：共同体如何提升公司业务、品牌和团队》](people-powered.md)
 
 
 
