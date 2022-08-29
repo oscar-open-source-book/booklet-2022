@@ -24,13 +24,13 @@
 
 * [《商业开源》](open-source-for-business.md)
 * [《代码2.0：网络空间中的法律》](code-version-2.md)
-* [《思想的未来：网络时代公共知识领域的警世》]()
+* [《思想的未来：网络时代公共知识领域的警世》](the-future-of-ideas.md)
 * [《开源许可：软件自由和知识财产法》](open-source-licensing.md)
-* [《自由文化：创意产业的未来》]()
-* [《理解开源和自由软件许可（O'Reilly）》]()
+* [《自由文化：创意产业的未来》](free-culture.md)
+* [《理解开源和自由软件许可（O'Reilly）》](understand-foss-license.md)
 * [《知识财产和开源：保护代码/法典的实践指导》]()
 * [《Linux和开源的商业与经济》]()
-* [《另类开源：理解风险与把握机会》]()
+* [《另类开源：理解风险与把握机会》](the-open-source-alternative.md)
 * [无需法律的秩序](order-without-law.md)
 
 ### 文化类
@@ -88,7 +88,6 @@
 * [《群体的智慧：如何做出最聪明的决策》](The_Wisdom_of_Crowds.md)
 * [《心智社会》](The_Society_of_Mind.md)
 * [《合作的进化》](The_evolution_of_cooperation.md)
-* [《置身事内：中国政府与经济发展》]()
 * [《匠人》](the-craftman.md)
 * [《在所有人看得见的地方工作：开源软件的开发与维护》](working-in-public.md)
 * [《共同体的艺术：打造参与的新纪元》](the-art-of-community.md)
