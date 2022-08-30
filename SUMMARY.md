@@ -38,21 +38,21 @@
 * [《黑客伦理与信息时代的精神》](The_Hacker_Ethic_and_the_Spirit_of_the_Information_Age.md)
 * [《黑客：计算机革命的英雄们》](Hackers_Heroes_of_the_Computer_Revolution_25th_Anniversary_Edition.md)
 * [《开源的成功之路》](the_success_of_open_source.md)
-* [《Linux红帽旋风》]()
+* [《Linux红帽旋风》](under-the-radar.md)
 * [《只是为了好玩：Linus Torvalds自传》](Just_For_Fun.md)
-* [《若为自由故：Richard Stallman自传》](Free_as_in_Freedom_Richard_Stallman_s_Crusade_for_Free_Software)
-* [《编织万维网：万维之父谈万维网的原初设计与最终命运》]()
+* [《若为自由故：Richard Stallman自传》](Free_as_in_Freedom_Richard_Stallman_s_Crusade_for_Free_Software.md)
+* [《编织万维网：万维之父谈万维网的原初设计与最终命运》](weaving-the-web.md)
 * [《数字乌托邦：从反主流文化到赛博文化》](From_Counterculture_to_Cyberculture.md)
 * [《叛逆代码：Linux 和开源的革命》]()
-* [《码出自由》]()
-* [《Two bits: 自由软件的文化意义》]()
+* [《码出自由》](the-code.md)
+* [《Two bits: 自由软件的文化意义》](two-bits.md)
 
 ### 管理类
 
 * [《开放式组织：面向未来的组织管理新范式》](The_Open_Organization.md)
 * [《自由企业：释放员工，收获卓越》]()
 * [《软件悖论：商业软件市场的崛起与衰落》]()
-* [《全民自由：Linux和自由软件运动如何抵抗科技巨头》]()
+* [《全民自由：Linux和自由软件运动如何抵抗科技巨头》](free-for-all.md)
 * [《开放与共享：开源创新的经济学思考》](open-and-share.md)
 
 ### 工程类
@@ -64,7 +64,7 @@
 * [《UNIX编程艺术》](the-art-of-unix.md)
 * [《上游思维：在问题发生之前解决问题》](Upstream_The_Quest_to_Solve_Problems_Before_They_Happen.md)
 * [《Linux/Unix设计思想》](Linux_and_the_Unix_Philosophy.md)
-* [梦断代码]()
+* [《梦断代码》](dreaming-in-code.md)
 
 
 ### 经济类
