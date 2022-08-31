@@ -28,8 +28,8 @@
 * [《开源许可：软件自由和知识财产法》](open-source-licensing.md)
 * [《自由文化：创意产业的未来》](free-culture.md)
 * [《理解开源和自由软件许可（O'Reilly）》](understand-foss-license.md)
-* [《知识财产和开源：保护代码/法典的实践指导》]()
-* [《Linux和开源的商业与经济》]()
+* [《知识财产和开源：保护代码/法典的实践指导》](intellectual-property-and-os.md)
+* [《Linux和开源的商业与经济》](linux-and-os-business.md)
 * [《另类开源：理解风险与把握机会》](the-open-source-alternative.md)
 * [无需法律的秩序](order-without-law.md)
 
@@ -43,15 +43,15 @@
 * [《若为自由故：Richard Stallman自传》](Free_as_in_Freedom_Richard_Stallman_s_Crusade_for_Free_Software.md)
 * [《编织万维网：万维之父谈万维网的原初设计与最终命运》](weaving-the-web.md)
 * [《数字乌托邦：从反主流文化到赛博文化》](From_Counterculture_to_Cyberculture.md)
-* [《叛逆代码：Linux 和开源的革命》]()
+* [《叛逆代码：Linux 和开源的革命》](rebel-code.md)
 * [《码出自由》](the-code.md)
 * [《Two bits: 自由软件的文化意义》](two-bits.md)
 
 ### 管理类
 
 * [《开放式组织：面向未来的组织管理新范式》](The_Open_Organization.md)
-* [《自由企业：释放员工，收获卓越》]()
-* [《软件悖论：商业软件市场的崛起与衰落》]()
+* [《自由企业：释放员工，收获卓越》](free-enterprise.md)
+* [《软件悖论：商业软件市场的崛起与衰落》](software-paradox.md)
 * [《全民自由：Linux和自由软件运动如何抵抗科技巨头》](free-for-all.md)
 * [《开放与共享：开源创新的经济学思考》](open-and-share.md)
 
