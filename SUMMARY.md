@@ -70,17 +70,16 @@
 ### 经济类
 
 * [《集体行动的逻辑》](The_Logic_of_Collective_Action.md)
-* [《硅谷生态圈：创新的雨林法则》]()  
+* [《硅谷生态圈：创新的雨林法则》](the-rainforest.md)  
 * [《非零和博弈：人类命运的逻辑》](Nonzero_The_Logic_of_Human_Destiny.md)
 * [《维基经济学：大规模协作如何改变一切》](Wikinomics_How_Mass_Collaboration_Changes_Everything.md)
 * [《增长的文化：现代经济的起源》](A_Culture_of_Growth_The_Origins_of_the_Modern_Economy.md)
 * [《共同利益经济学》](Economics_for_the_Common_Good.md)
-* [《重塑信息经济的结构》]()
-* [《线车宣言：传统商业的终结》]()
-* [《大众创新：自由创新如何推动商业未来》]()
-* [《企鹅与利维坦：合作如何战胜私利》]()
+* [《线车宣言：传统商业的终结》](the-cluetrain-manifesto.md)
+* [《大众创新：自由创新如何推动商业未来》](Democratizing-innovation.md)
+* [《企鹅与利维坦：合作如何战胜私利》](the-penguin-and-the-leviathan.md)
 * [《公共事物的治理之道》](Governing_the_commons_the_evolution_of_institutions_for_collective_action.md)
-* [《网络的财富：社会生产如何改变市场和自由》]()
+* [《网络的财富：社会生产如何改变市场和自由》](the-wealth-of-network.md)
 
 ### 社会类
 
@@ -92,6 +91,10 @@
 * [《在所有人看得见的地方工作：开源软件的开发与维护》](working-in-public.md)
 * [《共同体的艺术：打造参与的新纪元》](the-art-of-community.md)
 * [《以人为本：共同体如何提升公司业务、品牌和团队》](people-powered.md)
+
+### 实践类
+
+* [《开源之路》](the-open-source-way.md)
 
 
 
