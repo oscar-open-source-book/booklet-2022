@@ -76,7 +76,7 @@
 * [《增长的文化：现代经济的起源》](A_Culture_of_Growth_The_Origins_of_the_Modern_Economy.md)
 * [《共同利益经济学》](Economics_for_the_Common_Good.md)
 * [《线车宣言：传统商业的终结》](the-cluetrain-manifesto.md)
-* [《大众创新：自由创新如何推动商业未来》](Democratizing-innovation.md)
+* [《大众创新：自由创新如何推动商业未来》](Free-innovation.md)
 * [《企鹅与利维坦：合作如何战胜私利》](the-penguin-and-the-leviathan.md)
 * [《公共事物的治理之道》](Governing_the_commons_the_evolution_of_institutions_for_collective_action.md)
 * [《网络的财富：社会生产如何改变市场和自由》](the-wealth-of-network.md)
@@ -85,7 +85,6 @@
 
 * [《独自打保龄：美国社区的衰落与复兴》](Bowling_Alone.md)
 * [《群体的智慧：如何做出最聪明的决策》](The_Wisdom_of_Crowds.md)
-* [《心智社会》](The_Society_of_Mind.md)
 * [《合作的进化》](The_evolution_of_cooperation.md)
 * [《匠人》](the-craftman.md)
 * [《在所有人看得见的地方工作：开源软件的开发与维护》](working-in-public.md)
