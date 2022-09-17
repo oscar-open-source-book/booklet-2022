@@ -6,7 +6,7 @@
 
 ## 封面
 
-![](./face-image/how-os-ate-software.jpg)
+![](./face-image/how-os-ate-software-zh.jpg)
 
 ## 内容简介
 
