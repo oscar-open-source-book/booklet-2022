@@ -17,7 +17,6 @@
 * [《拥抱开源》](open-source-ate-software.md)
 * [《自由和开源软件洞察论文集》](perspectives-on-foss.md)
 * [《创新者：一群技术狂人和鬼才程序员如何改变世界》](The_Innovators_How_a_Group_of_Hackers_Geniuses_and_Geeks_Created_the_Digital_Revolution.md)
-* [《恶魔、角马与企鹅：自由和开放软件如何改变世界》](demo-gnu-penguin.md)
 * [《开源之迷》](the-fascinating-of-open-source.md)
 
 ### 法律类
@@ -46,6 +45,11 @@
 * [《叛逆代码：Linux 和开源的革命》](rebel-code.md)
 * [《码出自由》](the-code.md)
 * [《Two bits: 自由软件的文化意义》](two-bits.md)
+
+### 历史类
+
+* [Unix 传奇：历史与回忆](unix-history-and-memoir.md)
+* [《恶魔、角马与企鹅：自由和开放软件如何改变世界》](demo-gnu-penguin.md)
 
 ### 管理类
 
