@@ -15,7 +15,7 @@
 # 如何参与？
 
 我们在GitHub上建立一个仓库： [https://github.com/oscar-open-source-book/booklet-2022](https://github.com/oscar-open-source-book/booklet-2022) ，向所有人开放编辑、纠错。
-![oscar-open-source-book_booklet-2022.png](./qr-img/oscar-open-source-book_booklet-2022.png)
+![oscar-open-source-book_booklet-2022.png](./qr-img/oscar-open-source-book_booklet-2022.png)  
 错误和纰漏之处，恳请指正，提交PR，我们会认真回复。
 如果读者对哪本书有特别的感受，可以提交PR。
 如果您对本小册子有任何的改进意见，欢迎来提交issue，或者加入我们的共读小组。
