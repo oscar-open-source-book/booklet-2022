@@ -45,6 +45,7 @@
 * [《叛逆代码：Linux 和开源的革命》](rebel-code.md)
 * [《码出自由》](the-code.md)
 * [《Two bits: 自由软件的文化意义》](two-bits.md)
+* [《开源文化在中国》](open-source-culture-in-china.md)
 
 ### 历史类
 
