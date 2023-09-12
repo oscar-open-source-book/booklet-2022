@@ -67,11 +67,8 @@
 * [《大教堂与集市》](The_Cathedral_and_the_Bazaar.md)
 * [《重塑发现：网络化科学的新时代》](Reinventing_Discovery_The_New_Era_of_Networked_Science.md)
 * [《UNIX编程艺术》](the-art-of-unix.md)
-* [《上游思维：在问题发生之前解决问题》](Upstream_The_Quest_to_Solve_Problems_Before_They_Happen.md)
 * [《Linux/Unix设计思想》](Linux_and_the_Unix_Philosophy.md)
 * [《梦断代码》](Dreaming_in_code.md)
-
-
 
 ### 经济类
 
@@ -97,6 +94,11 @@
 * [《在所有人看得见的地方工作：开源软件的开发与维护》](working-in-public.md)
 * [《共同体的艺术：打造参与的新纪元》](the-art-of-community.md)
 * [《以人为本：共同体如何提升公司业务、品牌和团队》](people-powered.md)
+
+### 思维与观念
+
+* [《上游思维：在问题发生之前解决问题》](Upstream_The_Quest_to_Solve_Problems_Before_They_Happen.md)
+* [《有限与无限的游戏》](finite_and_infinite_games.md)
 
 ### 实践类
 

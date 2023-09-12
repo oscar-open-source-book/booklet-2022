@@ -10,6 +10,8 @@ OSCAR 2022 可信开源大会上的「OSCAR·开源之书·共读书单」小册
 
 关于近期的介绍和小组的规则请参考：[历史资料]（https://1drv.ms/p/s!Arg2k_5HJFrbgYU-0D96Ia-H_xF1Ng）
 
+更多详情可移步：[https://osbook.club](https://osbook.club)。
+
 ## 参与「OSCAR·开源之书·共读」的价值和意义：
 
 ### 短期价值(行为)：
