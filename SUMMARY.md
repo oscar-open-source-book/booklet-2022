@@ -6,6 +6,7 @@
 
 * [「OSCAR·开源之书·共读」小组](README.md)
 * [亲力亲为参与者](contributor.md)
+* [开源之书·推荐人介绍](book-recommender.md)
 
 ## 「OSCAR·开源之书·共读书单」
 
@@ -51,6 +52,7 @@
 
 * [Unix 传奇：历史与回忆](unix-history-and-memoir.md)
 * [《恶魔、角马与企鹅：自由和开放软件如何改变世界》](demo-gnu-penguin.md)
+* [《开源之史](the-brief-history-of-open-source.md)
 
 ### 管理类
 
