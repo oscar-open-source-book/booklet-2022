@@ -23,7 +23,7 @@ Linux之父Linus Torvalds的自传，也是Linus唯一一本书。Linus以调侃
 ## 推荐理由
 
 传记类作品，给我们以启迪，人生只有一次，做点好玩的事情，没有谁比Linus更为潇洒自如的了，但是，细心的读者仍然能看出美国文化对匠人的保护和维系，读此书，了解资本、社会、个体、表达等背后的庞大机理。
-<p align="right"> -- By <a href="https://opensourceway.community/all_about_kuosi">适兕</a>  作者,「开源之道」主创。「OSCAR·开源之书·共读」发起者和记录者</p>
+<p align="right"> -- By <a href="https://opensourceway.community/">适兕</a>  作者,「开源之道」主创，「OSCAR·开源之书·共读」发起者和记录者</p>
 
 在计算机的世界里，我内心里一直对于Linux 的神话羡慕不已。一个人、一个芬兰高中生、一个暑假、开发出来一个操作系统。Linus以一己之力书写了计算机发展史上的传奇。Linux 你可以任意使用它、任意安装它、它上面数不清的工具以及其中包含的深刻的设计思想深深的影响了一代又一代黑客，成为英雄的传说。读本书，了解英雄的成长故事，找到人生的意义。
 <p align="right">-- By 武晓慧 Redhat工程师</p>
