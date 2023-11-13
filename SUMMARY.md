@@ -1,10 +1,11 @@
 # 「OSCAR·开源之书·共读书单」
 
-* [编写手册参与人员](co-author.md)
+* [编写手册参与人员名单](co-author.md)
+* [「开源之书·书评」计划](os-book-review.md)
 
 ## 关于「OSCAR·开源之书·共读」小组
 
-* [「OSCAR·开源之书·共读」小组](README.md)
+* [关于「OSCAR·开源之书·共读」](README.md)
 * [亲力亲为参与者](contributor.md)
 * [开源之书·推荐人介绍](book-recommender.md)
 
