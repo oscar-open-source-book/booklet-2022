@@ -51,7 +51,7 @@
 
 ### 历史类
 
-* [Unix 传奇：历史与回忆](unix-history-and-memoir.md)
+* [《Unix 传奇：历史与回忆》](unix-history-and-memoir.md)
 * [《恶魔、角马与企鹅：自由和开放软件如何改变世界》](demo-gnu-penguin.md)
 * [《开源之史](the-brief-history-of-open-source.md)
 
