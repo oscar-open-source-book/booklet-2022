@@ -32,6 +32,7 @@
 * [《知识财产和开源：保护代码/法典的实践指导》](intellectual-property-and-os.md)
 * [《Linux和开源的商业与经济》](linux-and-os-business.md)
 * [《另类开源：理解风险与把握机会》](the-open-source-alternative.md)
+* [《开源许可的崛起：软件产业界采用知识财产权的挑战》](the-rise-of-open-source-licensing.md)
 * [无需法律的秩序](order-without-law.md)
 
 ### 文化类
