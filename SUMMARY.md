@@ -76,6 +76,7 @@
 
 ### 经济类
 
+* [《The Comingled Code:开源及其经济发展》](the-comingled-code.md)
 * [《集体行动的逻辑》](The_Logic_of_Collective_Action.md)
 * [《硅谷生态圈：创新的雨林法则》](the-rainforest.md)  
 * [《非零和博弈：人类命运的逻辑》](Nonzero_The_Logic_of_Human_Destiny.md)
