@@ -33,7 +33,7 @@
 * [《Linux和开源的商业与经济》](linux-and-os-business.md)
 * [《另类开源：理解风险与把握机会》](the-open-source-alternative.md)
 * [《开源许可的崛起：软件产业界采用知识财产权的挑战》](the-rise-of-open-source-licensing.md)
-* [无需法律的秩序](order-without-law.md)
+* [《无需法律的秩序》](order-without-law.md)
 
 ### 文化类
 
@@ -108,6 +108,7 @@
 ### 实践类
 
 * [《开源之路》](the-open-source-way.md)
+* [《开源项目的计划管理：如何指导共同体驱动的开源项目》](program-management-for-osp.md)
 
 
 
