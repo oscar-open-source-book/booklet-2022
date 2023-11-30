@@ -35,6 +35,12 @@
 * [《开源许可的崛起：软件产业界采用知识财产权的挑战》](the-rise-of-open-source-licensing.md)
 * [《无需法律的秩序》](order-without-law.md)
 
+毫无疑问，法律具有地域性，以上是欧美国家下的法律法规及其思考，如何在本土实施也是一大问题，看如何对策。
+
+#### 本土法律类
+
+* [《开放源码软件及许可证法律问题和对策研究》](oss-license-law-and-research-in-local.md)
+
 ### 文化类
 
 * [《黑客伦理与信息时代的精神》](The_Hacker_Ethic_and_the_Spirit_of_the_Information_Age.md)
