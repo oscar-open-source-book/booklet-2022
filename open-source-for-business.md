@@ -6,7 +6,7 @@
 
 ## 封面
 
-![](./face-image/open-source-for-business.jpg)
+![](./face-image/open-source-for-business-chinese.jpg)
 
 ## 内容简介
 

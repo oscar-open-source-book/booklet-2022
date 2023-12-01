@@ -1,11 +1,13 @@
 # 「OSCAR·开源之书·共读书单」
 
-* [编写手册参与人员](co-author.md)
+* [编写手册参与人员名单](co-author.md)
+* [「开源之书·书评」计划](os-book-review.md)
 
 ## 关于「OSCAR·开源之书·共读」小组
 
-* [「OSCAR·开源之书·共读」小组](README.md)
+* [关于「OSCAR·开源之书·共读」](README.md)
 * [亲力亲为参与者](contributor.md)
+* [开源之书·推荐人介绍](book-recommender.md)
 
 ## 「OSCAR·开源之书·共读书单」
 
@@ -30,7 +32,14 @@
 * [《知识财产和开源：保护代码/法典的实践指导》](intellectual-property-and-os.md)
 * [《Linux和开源的商业与经济》](linux-and-os-business.md)
 * [《另类开源：理解风险与把握机会》](the-open-source-alternative.md)
-* [无需法律的秩序](order-without-law.md)
+* [《开源许可的崛起：软件产业界采用知识财产权的挑战》](the-rise-of-open-source-licensing.md)
+* [《无需法律的秩序》](order-without-law.md)
+
+毫无疑问，法律具有地域性，以上是欧美国家下的法律法规及其思考，如何在本土实施也是一大问题，看如何对策。
+
+#### 本土法律类
+
+* [《开放源码软件及许可证法律问题和对策研究》](oss-license-law-and-research-in-local.md)
 
 ### 文化类
 
@@ -49,8 +58,9 @@
 
 ### 历史类
 
-* [Unix 传奇：历史与回忆](unix-history-and-memoir.md)
+* [《Unix 传奇：历史与回忆》](unix-history-and-memoir.md)
 * [《恶魔、角马与企鹅：自由和开放软件如何改变世界》](demo-gnu-penguin.md)
+* [《开源之史](the-brief-history-of-open-source.md)
 
 ### 管理类
 
@@ -72,6 +82,7 @@
 
 ### 经济类
 
+* [《The Comingled Code:开源及其经济发展》](the-comingled-code.md)
 * [《集体行动的逻辑》](The_Logic_of_Collective_Action.md)
 * [《硅谷生态圈：创新的雨林法则》](the-rainforest.md)  
 * [《非零和博弈：人类命运的逻辑》](Nonzero_The_Logic_of_Human_Destiny.md)
@@ -103,6 +114,7 @@
 ### 实践类
 
 * [《开源之路》](the-open-source-way.md)
+* [《开源项目的计划管理：如何指导共同体驱动的开源项目》](program-management-for-osp.md)
 
 
 
