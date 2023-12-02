@@ -35,8 +35,6 @@
 * [《开源许可的崛起：软件产业界采用知识财产权的挑战》](the-rise-of-open-source-licensing.md)
 * [《无需法律的秩序》](order-without-law.md)
 
-
-
 #### 本土法律类
 * [序言](more-local-law-book.md)
 * [《开放源码软件及许可证法律问题和对策研究》](oss-license-law-and-research-in-local.md)
@@ -106,6 +104,7 @@
 * [《在所有人看得见的地方工作：开源软件的开发与维护》](working-in-public.md)
 * [《共同体的艺术：打造参与的新纪元》](the-art-of-community.md)
 * [《以人为本：共同体如何提升公司业务、品牌和团队》](people-powered.md)
+* [《知识社群：将个体知识融汇成集体智慧》](cultivating-communities-of-practice.md)
 
 ### 思维与观念
 

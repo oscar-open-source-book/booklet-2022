@@ -4,7 +4,7 @@
 
 ## 封面
 
-![](https://www.opensourceway.community/images/the-fascinating-os-face.jpeg)
+![](./face-image/the-fascinating-os-face.jpeg)
 
 ## 内容简介
 
