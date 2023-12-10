@@ -110,6 +110,7 @@
 
 * [《上游思维：在问题发生之前解决问题》](Upstream_The_Quest_to_Solve_Problems_Before_They_Happen.md)
 * [《有限与无限的游戏》](finite_and_infinite_games.md)
+* [《个人知识：朝向后批判哲学》](personal-knowledge.md)
 
 ### 实践类
 
