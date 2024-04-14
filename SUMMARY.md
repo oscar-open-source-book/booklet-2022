@@ -94,6 +94,7 @@
 * [《公共事物的治理之道》](Governing_the_commons_the_evolution_of_institutions_for_collective_action.md)
 * [《网络的财富：社会生产如何改变市场和自由》](the-wealth-of-network.md)
 * [《超级合作者》](super-cooperator.md)
+* [保护虚拟公域--自组织开放源代码和自由软件社区与创新知识产权制度](protecting-the-virtual-commons.md)
 
 ### 社会类
 
