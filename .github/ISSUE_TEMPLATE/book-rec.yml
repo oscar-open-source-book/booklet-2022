@@ -1,0 +1,82 @@
+name: 📚 图书推荐
+description: 推荐一本值得加入共读书单的开源相关图书
+title: "📚 推荐《____》"
+labels: ["book-rec"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 书名
+      description: 图书的完整书名（中英文均可）
+      placeholder: "例：《大教堂与集市》"
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: 作者
+      placeholder: "例：Eric S. Raymond"
+    validations:
+      required: true
+  - type: input
+    id: publisher
+    attributes:
+      label: 出版社 / 出版年份
+      placeholder: "例：刘鹏 译 / 人民邮电出版社 / 2010"
+  - type: dropdown
+    id: category
+    attributes:
+      label: 领域分类
+      description: 选择最接近的分类
+      multiple: true
+      options:
+        - 编程语言
+        - 操作系统
+        - 网络
+        - 数据库
+        - 安全
+        - DevOps / 基础设施
+        - 人工智能 / 数据
+        - 开源治理 / 社区
+        - 开源法律 / 许可
+        - 开源历史 / 人物
+        - 商业模式 / 经济
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 推荐理由
+      description: 1-3 句话说明为什么推荐
+      placeholder: "这本书记述了……，适合想了解……的读者"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: 公开下载 / 购买链接
+      description: 官网、GitHub、豆瓣、Amazon 或 pdf 链接（如有）
+  - type: dropdown
+    id: read
+    attributes:
+      label: 是否已读
+      options:
+        - "已读"
+        - "部分阅读"
+        - "未读，仅推荐"
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: 难度 / 适合人群
+      options:
+        - 入门级
+        - 中级
+        - 进阶级
+        - 学术研究
+  - type: textarea
+    id: notes
+    attributes:
+      label: 其他备注
+      description: 适合人群、相关书籍、个人感受等
+      placeholder: "可选填写"
